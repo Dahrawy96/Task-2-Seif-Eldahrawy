@@ -1,1 +1,3 @@
-# Task-2-Seif-Eldahrawy
+Caesar Cipher Encryption Tool
+
+This project is a Python-based Caesar Cipher application that demonstrates the fundamentals of classical cryptography. The program allows users to encrypt and decrypt text messages by shifting alphabetic characters by a specified number of positions in the alphabet. It supports both uppercase and lowercase letters while preserving non-alphabetic characters such as spaces and punctuation. The project showcases the use of string manipulation, ASCII character encoding, functions, and modular arithmetic in Python, providing a simple introduction to encryption and secure communication concepts.
